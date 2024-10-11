@@ -21,7 +21,7 @@ To run the K-NN implementation, clone the repository and navigate to the project
 
 bash
 Copy code
-git clone https://github.com/yourusername/k-nn.git
+git clone (https://github.com/mahesh-tippanu/liberay_bPML)
 cd k-nn
 Example Usage
 To classify a sample dataset using K-NN, run the following command in a Python environment:
